@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💼 I'm currently looking for a job as Product Manager
+- 👨‍💻 I just finished an intensive 9-weeks bootcam in web development @ Le Wagon Paris
+
 <!--
 **Mattfl22/mattfl22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
